@@ -1,0 +1,6 @@
+{
+  "name": "Aether Fighters",
+  "description": "Jogo 3D de luta em mundo aberto com voo livre, combate de alto impacto e destruição progressiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
